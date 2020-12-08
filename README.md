@@ -16,9 +16,7 @@ Few steps to-do
 4. Save it and hit `command+r` to refresh the app.
 5. Woohoo!! 🎉 Cover Image now update
 
-And, I added some design template hope you guys like it. 😁 
-
-More will add soon
+And, I added some design template hope you guys like it. 😁 More will add soon
 
 If you want to customize on code there few mjml code add.
 
