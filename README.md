@@ -25,9 +25,3 @@ If you want to customize on code there few mjml code add.
 `<mj-body background-color="#">`
 
 `border-radius="70px"`
-
----
-
-You like that easy cheat hack
-
-<a href="https://www.buymeacoffee.com/prashantdwivedi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&emoji=☕&slug=prashantdwivedi&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
