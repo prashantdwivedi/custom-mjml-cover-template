@@ -2,6 +2,8 @@
 
 On MJML App currently, there no cover image option to add for the specific project, and easy to recognize.
 
+![https://i.imgur.com/hQnb2tv.png](https://i.imgur.com/hQnb2tv.png)
+
 There is a simple way to add—first download ready-made templates from here.
 
 Most important is file name structure `0-` and `<mj-column padding-top="8px">`
