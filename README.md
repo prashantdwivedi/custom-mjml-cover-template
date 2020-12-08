@@ -1,7 +1,3 @@
-# MJML Cover Image
-
-Idea Stage: Pick-up
-
 ### MJML Cover Image
 
 On MJML App currently, there no cover image option to add for the specific project, and easy to recognize.
