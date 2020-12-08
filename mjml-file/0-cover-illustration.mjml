@@ -1,0 +1,9 @@
+<mjml>
+  <mj-body background-color="#FF4F5A">
+    <mj-section>
+      <mj-column padding-top="8px">
+        <mj-image border-radius="0px" padding="0px" src="https://i.imgur.com/QH1ZrGY.png" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
