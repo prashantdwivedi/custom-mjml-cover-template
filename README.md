@@ -1,4 +1,4 @@
-### Custom MJML Cover Image
+### Upload your own templates to MJML
 
 On MJML App currently, there no cover image option to add for the specific project, and easy to recognize.
 
